@@ -1,8 +1,16 @@
 *.class
-
+*.DS_Store
+*.iml
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
-
+target
+.classpath
+.settings
+.project
+*.iml
+*.iws
+*.ipr
+.idea
 # Package Files #
 *.jar
 *.war
